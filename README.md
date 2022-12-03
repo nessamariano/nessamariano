@@ -9,7 +9,7 @@
   </table>
 </center>   
 
-### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+## Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 :computer: Estudando Ciência de Dados na Escola DNC
 
@@ -23,17 +23,22 @@
 ### Estudando
 
 <div>
-:books: Ciência de Dados (Métodos de aprendizado de máquina supervisionados);</br>
-:books: Power BI;</br>
-:books: Estatística;</br>
-:books: Linux;</br>
-:books: Trilha de certificação Solutions Architect AWS;</br>
+Ciência de Dados (Métodos de aprendizado de máquina supervisionados);</br>
+Power BI;</br>
+Estatística;</br>
+Linux;</br>
+Trilha de certificação Solutions Architect AWS;</br>
+
+### Lendo os livros:  
+
+:books: Mãos a obra: Aprendizado de máquina com Scikit-Learn, Keras e TensorFlow - Editora O'Reilley;</br>
+:books: Por que os Generalistas vencem em um mundo de Especialistas - Editora Globo Livros;</br>
 
 </br>
 </br>
 
 ---
-## Tecnologias 💻
+### Tecnologias 💻
 <div>
 <img src="https://user-images.githubusercontent.com/92809543/147505634-790c4187-0e0c-42cd-b3b5-b35c77c16347.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147506791-fa632e59-58c0-423f-bfab-90184b5528ce.png" width="80" height=80"/>
@@ -46,14 +51,16 @@
 </br>
 
 ---
-### Onde me encontrar?
+### Onde me encontrar? 
+                                                                                                                                      
 
-<a href="https://www.linkedin.com/in/vanessamarianodasilva"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamarianodasilva/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmarianodatascience@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547991576031&text=oi)
+![](https://img.shields.io/github/followers/nessamariano?style=social) <img src="http://views.whatilearened.today/views/github/nessamariano/views.svg"/>                                                                                                                                      
+</div><br/>
 
-<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
 
-
-![](https://img.shields.io/github/followers/nessamariano?style=social) <img src="http://views.whatilearened.today/views/github/nessamariano/views.svg"/>
 
 
   ![Snake animation](https://github.com/nessamariano/nessamariano/blob/output/github-contribution-grid-snake.svg)
