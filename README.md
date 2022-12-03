@@ -1,10 +1,16 @@
-[![capa](https://github.com/lauraDamacenoAlmeida/lauraDamacenoAlmeida/blob/master/github-page.png)](https://github.com/lauraDamacenoAlmeida?tab=repositories)
 
 
-<div>
-  <a href="https://github.com/nessamariano">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=nessamariano&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessamariano&layout=compact&langs_count=7&theme=react" />
+<center>
+  <table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=nessamariano&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessamariano&hide=html&layout=compact&theme=buefy" /</td>  
+    </tr>   
+  </table>
+</center>   
+
+
+
 
   ![Snake animation](https://github.com/nessamariano/nessamariano/blob/output/github-contribution-grid-snake.svg)
     
