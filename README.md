@@ -1,4 +1,4 @@
-[![capa](https://github.com/nessamariano/nessamariano/blob/master/github-capa.png)](https://github.com/nessamariano?tab=repositories)
+[![capa](https://github.com/nessamariano/nessamariano/blob/main/github-capa.png)
 
 <center>
   <table>
