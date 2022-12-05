@@ -11,7 +11,7 @@
 
 ## Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
-:computer: Estudando Ciência de Dados na Escola DNC
+:computer: Formação em Dados na Escola DNC - cursando - término Abril/23.
 
 :books: Formada em Agronomia pela UEM-PR e MBA em Gestão Comercial pela FGV
 
