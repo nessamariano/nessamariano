@@ -13,7 +13,7 @@
 
 :computer: Formação em Dados na Escola DNC - cursando - término Abril/23.
 
-:books: Formada em Agronomia pela UEM-PR e MBA em Gestão Comercial pela FGV
+:books: Engenheira Agrônoma pela UEM-PR e MBA em Gestão Comercial pela FGV - Fundação Getúlio Vargas
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning + Criptoativos
 
