@@ -15,9 +15,9 @@
 
 :books: Engenheira Agrônoma pela UEM-PR e MBA em Gestão Comercial pela FGV - Fundação Getúlio Vargas
 
-:cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning + Criptoativos
+:cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning 
 
-:star2: Amo falar sobre viagens, Game of Thrones, Star Wars🛸 e mercado crypto! (Nunca assisti Senhor dos Anéis, me perdoem!)
+:star2: Amo falar sobre viagens, Game of Thrones, Star Wars🛸 e mercado crypto! (Nunca assisti Senhor dos Anéis, perdoem-me!)
 
 ---
 ### Estudando
