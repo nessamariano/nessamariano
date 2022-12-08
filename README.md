@@ -17,7 +17,7 @@
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning + Criptoativos
 
-:star2: Amo falar sobre viagens, Game of Thrones e Star Wars!
+:star2: Amo falar sobre viagens, Game of Thrones, Star Wars🛸 e mercado crypto! (Nunca assisti Senhor dos Anéis, me perdoem!)
 
 ---
 ### Estudando
